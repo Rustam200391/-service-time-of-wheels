@@ -8,4 +8,4 @@ Variables needed for calculation:
 3)constant average service life from car enthusiasts, 
 4)road surface (soil, asphalt) 
 5)constant average mileage.
-6)old wheels years
+6)old wheels years.

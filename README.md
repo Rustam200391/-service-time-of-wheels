@@ -13,5 +13,5 @@ The application is aimed at calculating the average service life of a wheel of a
 <li>constant average mileage</li>
 <li>old wheels years</li>
     </ol>
-    </li>
+  </li>
 </ul>

@@ -6,7 +6,7 @@ The application is aimed at calculating the average service life of a wheel of a
   <li>Variables needed for calculation:</li>
   <li>
     <ol>
-1)take the brand of wheel,
+<li>take the brand of wheel</li>
 2)constant average service life from the manufacturer, 
 3)constant average service life from car enthusiasts, 
 4)road surface (soil, asphalt) 

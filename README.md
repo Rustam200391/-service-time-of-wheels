@@ -2,7 +2,7 @@
 
 The application is aimed at calculating the average service life of a wheel of a certain size for a certain brand of car.
 
-<ul>
+<ol>
   <li>Variables needed for calculation:</li>
   <li>
     <ol>
@@ -12,6 +12,6 @@ The application is aimed at calculating the average service life of a wheel of a
 4)road surface (soil, asphalt) 
 5)constant average mileage.
 6)old wheels years.
-    </ol>ol>
+    </ol>
     </li>
-</ul>
+</ol>

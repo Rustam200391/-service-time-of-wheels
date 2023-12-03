@@ -1,9 +1,11 @@
+
+
 # -service-time-of-wheels
 
 The application is aimed at calculating the average service life of a wheel of a certain size for a certain brand of car.
 
 <ul>
-  <li>Variables needed for calculation:</li>
+  <li style="list-style: none;" >Variables needed for calculation:</li>
   <li>
     <ol>
 <li>take the brand of wheel</li>

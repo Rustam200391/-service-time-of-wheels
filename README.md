@@ -16,4 +16,4 @@ The application is aimed at calculating the average service life of a wheel of a
 <li>old wheels years</li>
     </ol>
   </li>
-</ul>
+</ol>

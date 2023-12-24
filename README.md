@@ -6,8 +6,7 @@
 
 The application is animed at calculating the average service life of a wheel of a certain size for a certain brand of car.
 
-Variables needed for calculation:</li>
-  <li>
+Variables needed for calculation:
     <ol>
 <li>take the brand of wheel</li>
 <li>constant average service life from the manufacturer</li>
@@ -16,5 +15,4 @@ Variables needed for calculation:</li>
 <li>constant average mileage</li>
 <li>old wheels years</li>
     </ol>
-  </li>
-</ol>
+

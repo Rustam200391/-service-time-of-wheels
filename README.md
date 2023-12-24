@@ -6,8 +6,7 @@
 
 The application is animed at calculating the average service life of a wheel of a certain size for a certain brand of car.
 
-<ol>
-  <li style="list-style-type: none;" >Variables needed for calculation:</li>
+Variables needed for calculation:</li>
   <li>
     <ol>
 <li>take the brand of wheel</li>

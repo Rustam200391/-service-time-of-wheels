@@ -14,5 +14,5 @@ Variables needed for calculation:
 <li>road surface (soil, asphalt)</li>
 <li>constant average mileage</li>
 <li>old wheels years</li>
-    </ol>
+    
 

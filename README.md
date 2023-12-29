@@ -8,7 +8,7 @@ The application is animed at calculating the average service life of a wheel of 
 
 Variables needed for calculation:
     <ul>
-<li>take the brand of wheel</li>
+<li><span>take the brand of wheel</li>
 <li>constant average service life from the manufacturer</li>
 <li>constant average service life from car enthusiasts</li>
 <li>road surface (soil, asphalt)</li>

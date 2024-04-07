@@ -1,6 +1,6 @@
 Существует шесть вариантов adaptive web design под разную ширину экрана — 320px, 480px, 760px, 960px, 1200px и 1600px.
 
-<i></i>
+<i></i
 
 # -service-time-of-wheels
 
